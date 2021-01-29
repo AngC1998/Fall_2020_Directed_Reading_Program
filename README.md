@@ -11,7 +11,7 @@ This semester, we studied the [Naïve Bayes algorithm](https://en.wikipedia.org/
 
 [**View the Project with NBViewer**](https://nbviewer.jupyter.org/github/AngC1998/Fall_2020_Directed_Reading_Program/blob/master/Titanic.ipynb).
 
-Description of the Project
+**Description of the Project:**
 - We cleaned and processed a dataset of passengers on the 1912 Titanic before implementing an algorithm. 
 - We implemented a Naive Bayes Algorithm in Python to train, test, and anlyze the dataset. 
 - We also implemented different types of graphs to visualize the data. 
